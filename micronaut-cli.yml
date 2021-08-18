@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.github.bruno
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, aws-v2-sdk, gradle, http-client, junit, kotlin, kotlin-application, logback, management, micrometer, micrometer-prometheus, netty-server, readme, shade, yaml]
